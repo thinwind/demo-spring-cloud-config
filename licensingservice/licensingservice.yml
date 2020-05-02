@@ -1,4 +1,4 @@
-example.property: "I AM IN THE DEFAULT AND GIT AFTER REFRESH"
+example.property: "I AM IN THE DEFAULT AND GIT AFTER ANOTHER REFRESH"
 spring.jpa.database: "POSTGRESQL"
 spring.datasource.platform:  "postgres"
 spring.jpa.show-sql: "true"
